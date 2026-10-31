@@ -1,0 +1,2 @@
+model,confidence_threshold,no_tumor_test_images,clean_images,false_positive_images,false_positive_rate,total_false_detections
+yolo26s_seg_tanpa_no_tumor,0.25,140,123,17,0.12142857142857143,20
